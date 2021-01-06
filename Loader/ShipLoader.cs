@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 
 using scdb.Xml.Entities;
 using scdb.Xml.Vehicles;
+using Loader.Data;
 
 namespace Loader
 {

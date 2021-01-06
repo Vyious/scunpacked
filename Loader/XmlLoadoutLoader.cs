@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-
+using Loader.Data;
 using scdb.Xml.DefaultLoadouts;
 
 namespace Loader

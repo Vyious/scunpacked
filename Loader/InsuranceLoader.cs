@@ -4,6 +4,7 @@ using System.IO;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
+using Loader.Data;
 using Scdb.Xml;
 
 namespace Loader

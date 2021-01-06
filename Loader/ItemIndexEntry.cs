@@ -1,4 +1,6 @@
-﻿namespace Loader
+﻿using Loader.Data;
+
+namespace Loader
 {
 	public class ItemIndexEntry
 	{
